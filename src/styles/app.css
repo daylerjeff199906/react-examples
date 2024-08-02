@@ -1,0 +1,11 @@
+.card {
+  cursor: pointer;
+  padding: 10px;
+  margin: 5px;
+  border: 1px solid #000;
+  transition: background-color 0.3s ease;
+}
+
+.card:hover {
+  background-color: #f0f0f0; /* Cambia el color de fondo al pasar el ratón */
+}
